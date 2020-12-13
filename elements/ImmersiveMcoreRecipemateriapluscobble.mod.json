@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "mcode_mcorerecipe",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Mcoremateria"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "CUSTOM:Mcoremateria"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "Blocks.EMERALD_ORE"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "CUSTOM:Mcoremateria"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "CUSTOM:Mcoremateria"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cobblemcore"
+    },
+    "name": "immersive_mcore_recipemateriapluscobble",
+    "namespace": "mod"
+  }
+}

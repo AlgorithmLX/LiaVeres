@@ -1,0 +1,25 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "villagerheard",
+    "customModelName": "Normal",
+    "name": "Villager Heard",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MysticalHardcoreFood"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "Vhpouchenmcoresadasdasd"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "materia",
+    "customModelName": "Normal",
+    "name": "Mateia",
+    "creativeTab": {
+      "value": "CUSTOM:MysricalHardcoreItems"
+    },
+    "stackSize": 64,
+    "enchantability": 5,
+    "useDuration": 9,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Minimal`s unstables from item"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 512
+  }
+}

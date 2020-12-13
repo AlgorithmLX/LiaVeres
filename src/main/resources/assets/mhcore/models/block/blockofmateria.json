@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mhcore:blocks/materia_block",
+    "up": "mhcore:blocks/materia_block",
+    "north": "mhcore:blocks/materia_block",
+    "east": "mhcore:blocks/materia_block",
+    "south": "mhcore:blocks/materia_block",
+    "west": "mhcore:blocks/materia_block",
+    "particle": "mhcore:blocks/materia_block"
+  }
+}

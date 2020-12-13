@@ -1,0 +1,30 @@
+{
+  "group": "mhcore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mhcore:blockofmateria"
+    },
+    "1": {
+      "item": "mhcore:mcore_v_illager_heard"
+    },
+    "2": {
+      "item": "mhcore:blockofmateria"
+    },
+    "4": {
+      "item": "mhcore:mcoremateria"
+    },
+    "7": {
+      "item": "mhcore:mcoremateria"
+    }
+  },
+  "result": {
+    "item": "mhcore:mcore_materias_pickare",
+    "count": 1
+  }
+}

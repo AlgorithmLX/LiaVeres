@@ -1,0 +1,42 @@
+{
+  "group": "mcode_mcorerecipe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mhcore:mcoremateria"
+    },
+    "1": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "2": {
+      "item": "mhcore:mcoremateria"
+    },
+    "3": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "4": {
+      "item": "minecraft:emerald_ore"
+    },
+    "5": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "6": {
+      "item": "mhcore:mcoremateria"
+    },
+    "7": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "8": {
+      "item": "mhcore:mcoremateria"
+    }
+  },
+  "result": {
+    "item": "mhcore:cobblemcore",
+    "count": 1
+  }
+}

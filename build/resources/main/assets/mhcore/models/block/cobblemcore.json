@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mhcore:blocks/unnamed",
+    "up": "mhcore:blocks/unnamed",
+    "north": "mhcore:blocks/unnamed",
+    "east": "mhcore:blocks/unnamed",
+    "south": "mhcore:blocks/unnamed",
+    "west": "mhcore:blocks/unnamed",
+    "particle": "mhcore:blocks/unnamed"
+  }
+}
