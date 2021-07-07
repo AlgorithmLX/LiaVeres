@@ -1,2 +1,9 @@
 Manifest-Version: 1.0
+Implementation-Title: liaveres
+Implementation-Version: 1.0.0
+Specification-Vendor: AlgorithmLX
+Specification-Title: liaveres
+Implementation-Timestamp: 2021-07-07T15:37:19+0700
+Specification-Version: 1
+Implementation-Vendor: AlgorithmLX
 
