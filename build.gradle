@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'com.algorithmlx.liaveres'
-version = '1.16.5_1.0.0A'
+version = '1.16.5_2A'
 archivesBaseName = 'liaveres'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.

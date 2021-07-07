@@ -1,4 +1,4 @@
-Args: "--in-jar", "D:\SOURCES\liaveres\build\libs\liaveres-1.0.0.jar", "--out-jar", "D:\SOURCES\liaveres\build\reobfJar\output.jar", "--srg-in", "D:\SOURCES\liaveres\build\createMcpToSrg\output.tsrg", "--live"
+Args: "--in-jar", "C:\Users\test\Desktop\SOURCES\liaveres\build\libs\liaveres-1.16.5_1.0.0A.jar", "--out-jar", "C:\Users\test\Desktop\SOURCES\liaveres\build\reobfJar\output.jar", "--srg-in", "C:\Users\test\Desktop\SOURCES\liaveres\build\createMcpToSrg\output.tsrg", "--live"
 Classpath: C:\Users\test\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.9.0\SpecialSource-1.9.0-shaded.jar
 Classpath: C:\Users\test\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.1.32_mapped_snapshot_20210309-1.16.5\forge-1.16.5-36.1.32_mapped_snapshot_20210309-1.16.5.jar
 Classpath: C:\Users\test\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.1.32_mapped_snapshot_20210309-1.16.5\forge-1.16.5-36.1.32_mapped_snapshot_20210309-1.16.5-launcher.jar
@@ -63,7 +63,7 @@ Classpath: C:\Users\test\.gradle\caches\modules-2\files-2.1\com.mojang\text2spee
 Classpath: C:\Users\test\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar
 Classpath: C:\Users\test\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
 Classpath: C:\Users\test\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
-WorkDir: D:\SOURCES\liaveres\build\reobfJar
+WorkDir: C:\Users\test\Desktop\SOURCES\liaveres\build\reobfJar
 Main: net.md_5.specialsource.SpecialSource
 ====================================
 Loading mappings
