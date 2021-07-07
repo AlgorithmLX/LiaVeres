@@ -7,3 +7,5 @@ com/algorithmlx/liaveres/items/MaterialItem.java
 com/algorithmlx/liaveres/utils/ModItemGroups.java
  com.algorithmlx.liaveres.utils.ModItemGroups
  com.algorithmlx.liaveres.utils.ModItemGroups$1
+com/algorithmlx/liaveres/tools/CustomEnergyStorage.java
+ com.algorithmlx.liaveres.tools.CustomEnergyStorage
