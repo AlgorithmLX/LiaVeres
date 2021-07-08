@@ -1,7 +1,4 @@
 {
-  "_comment":"CT",
   "itemGroup.mod_item_tab": "LiaVeres: Items",
-
-  "_comment":"Items",
-  "item.algorithmlx.mater_crystal": "Mater Crystal"
+  "item.algorithmlx.matter_crystal": "Matter Crystal"
 }

@@ -10,5 +10,5 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, liaveres.MOD_ID);
 
-    public  static  final RegistryObject<Item> MATTER_CRYSTAL = ITEMS.register("matter_crystal", MaterialItem::new);
+    public static final RegistryObject<Item> MATTER_CRYSTAL = ITEMS.register("matter_crystal", MaterialItem::new);
 }
