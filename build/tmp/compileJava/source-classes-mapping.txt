@@ -1,9 +1,9 @@
-com/algorithmlx/liaveres/tools/CustomEnergyStorage.java
- com.algorithmlx.liaveres.tools.CustomEnergyStorage
 com/algorithmlx/liaveres/liaveres.java
  com.algorithmlx.liaveres.liaveres
 com/algorithmlx/liaveres/init/ModItems.java
  com.algorithmlx.liaveres.init.ModItems
+com/algorithmlx/liaveres/tools/CustomEnergyStorage.java
+ com.algorithmlx.liaveres.tools.CustomEnergyStorage
 com/algorithmlx/liaveres/items/MaterialItem.java
  com.algorithmlx.liaveres.items.MaterialItem
 com/algorithmlx/liaveres/utils/ModItemGroups.java
