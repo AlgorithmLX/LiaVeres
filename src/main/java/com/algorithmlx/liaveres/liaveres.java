@@ -18,7 +18,7 @@ public class liaveres {
 
 
     private static final Logger LOGGER = LogManager.getLogger();
-    public static final String MOD_ID = "liaveres";
+    public static final String ModId = "liaveres";
 
     public liaveres()
     {
