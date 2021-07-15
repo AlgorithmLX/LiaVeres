@@ -1,8 +1,6 @@
 package com.algorithmlx.liaveres;
 
 
-import com.algorithmlx.liaveres.init.ModItems;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -27,8 +25,6 @@ public class liaveres {
         eventBus.addListener(this::setup);
         eventBus.addListener(this::doClientStuff);
 
-        ModItems.ITEMS.register(eventBus);
-        MinecraftForge.EVENT_BUS.register(this);
     }
 
     private void setup(final FMLCommonSetupEvent event) {
