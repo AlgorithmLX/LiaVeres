@@ -1,11 +1,10 @@
 com/algorithmlx/liaveres/liaveres.java
  com.algorithmlx.liaveres.liaveres
-com/algorithmlx/liaveres/init/ModItems.java
- com.algorithmlx.liaveres.init.ModItems
-com/algorithmlx/liaveres/tools/CustomEnergyStorage.java
- com.algorithmlx.liaveres.tools.CustomEnergyStorage
-com/algorithmlx/liaveres/items/MaterialItem.java
- com.algorithmlx.liaveres.items.MaterialItem
-com/algorithmlx/liaveres/utils/ModItemGroups.java
- com.algorithmlx.liaveres.utils.ModItemGroups
- com.algorithmlx.liaveres.utils.ModItemGroups$1
+com/algorithmlx/liaveres/common/registry/ModItems.java
+ com.algorithmlx.liaveres.common.registry.ModItems
+com/algorithmlx/liaveres/common/registry/ModBlocks.java
+ com.algorithmlx.liaveres.common.registry.ModBlocks
+com/algorithmlx/liaveres/common/object/items/MatterCrystal.java
+ com.algorithmlx.liaveres.common.object.items.MatterCrystal
+com/algorithmlx/liaveres/common/object/blocks/MatterCrystalBlock.java
+ com.algorithmlx.liaveres.common.object.blocks.MatterCrystalBlock
