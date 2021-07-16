@@ -10,12 +10,12 @@ import static com.algorithmlx.liaveres.liaveres.ModId;
 
 @Mod.EventBusSubscriber(modid = ModId, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class ModItems {
-    public static Item matter_crystal = new MatterCrystal();
+    public static Item MatterCrystal = new MatterCrystal();
 
 
     @SubscribeEvent
     public static void registerItems(final RegistryEvent.Register<Item> e) {
-        register(e, matter_crystal);
+        register(e, MatterCrystal);
 
     }
 
