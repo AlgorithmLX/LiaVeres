@@ -13,7 +13,7 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import java.util.Objects;
 
-import static com.algorithmlx.liaveres.liaveres.ModId;
+import static com.algorithmlx.liaveres.LiaVeres.ModId;
 
 @Mod.EventBusSubscriber(modid = ModId, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class ModBlocks {

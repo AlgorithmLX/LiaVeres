@@ -11,13 +11,13 @@ import org.apache.logging.log4j.Logger;
 
 
 @Mod("liaveres")
-public class liaveres {
+public class LiaVeres {
 
 
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String ModId = "liaveres";
 
-    public liaveres()
+    public LiaVeres()
     {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
