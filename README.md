@@ -9,4 +9,6 @@ Textures(Matter, Matter block and Matter sword): DeltaRXT.
 
 Textures(Rest): AlgorithmLX.
 
+Models(GeckoLib, and other): AlgorithmLX
+
 Dependency(A4 and above): https://geckolib.com/ or https://www.curseforge.com/minecraft/mc-mods/geckolib or https://github.com/bernie-g/geckolib
