@@ -1,8 +1,5 @@
 package com.algorithmlx.liaveres;
 
-
-import com.algorithmlx.liaveres.common.modgroups.itemGroup;
-import net.minecraft.item.ItemGroup;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -19,7 +16,6 @@ public class liaveres {
 
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String ModId = "liaveres";
-    public static final ItemGroup ModItemGroup = new itemGroup(liaveres.ModId);
 
     public liaveres()
     {
