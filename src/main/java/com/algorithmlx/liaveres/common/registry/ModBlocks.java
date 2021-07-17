@@ -2,7 +2,6 @@ package com.algorithmlx.liaveres.common.registry;
 
 import com.algorithmlx.liaveres.common.object.blocks.EnergyStorageBlock;
 import com.algorithmlx.liaveres.common.object.blocks.MatterCrystalBlock;
-import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -19,10 +18,10 @@ import static com.algorithmlx.liaveres.liaveres.ModId;
 @Mod.EventBusSubscriber(modid = ModId, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class ModBlocks {
     @ObjectHolder(ModId + ":matter_crystal_block")
-    public static Block NetherPortal = null;
+    public static Block MatterCrystalBlock = null;
 
     @ObjectHolder(ModId + ":energy_storage_block")
-    public static Block Stone = null;
+    public static Block EnergyStorageBlock = null;
 
     @SubscribeEvent
     public static void registerBlocks(final RegistryEvent.Register<Block> e) {
@@ -32,7 +31,8 @@ public class ModBlocks {
 
     @SubscribeEvent
     public static void registerItems(final RegistryEvent.Register<Item> e) {
-        registerItem(e, NetherPortal);
+        registerItem(e, MatterCrystalBlock);
+        registerItem(e, EnergyStorageBlock);
     }
 
 
