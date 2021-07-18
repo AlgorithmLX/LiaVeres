@@ -21,7 +21,7 @@ modId="liaveres" #mandatory
 # see the associated build.gradle script for how to populate this completely automatically during a build
 version="A4" #mandatory
 # A display name for the mod
-displayName="LiaVeres" #mandatory
+displayName="liaveres" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
 updateJSONURL="https://www.curseforge.com/minecraft/mc-mods/liaveres/files" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
@@ -35,6 +35,7 @@ authors="AlgorithmLX" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Modifiaction On ULTRA items :D
+And animations ^_^
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.liaveres]] #optional

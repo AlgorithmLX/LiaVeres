@@ -8,19 +8,18 @@ buildscript {
         maven {
             url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
         }
-    }
-    dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '4.1.+', changing: true
-    }
-    dependencies {
-        implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41')
+        dependencies {
+            classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '4.1.+', changing: true
+            implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41')
+        }
     }
 }
 
+
 apply plugin: 'net.minecraftforge.gradle'
 
-group = 'com.algorithmlx.${modid}'
-version = "${mod_version}-${mc_version}"
+group = 'com.algorithmlx.liaveres'
+version = '1.16.5_A4'
 archivesBaseName = 'liaveres'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
@@ -81,14 +80,15 @@ dependencies {
     // Specify the version of Minecraft to use, If this is any group other then 'net.minecraft' it is assumed
     // that the dep is a ForgeGradle 'patcher' dependency. And it's patches will be applied.
     // The userdev artifact is a special name and will get all sorts of transformations applied to it.
-    minecraft 'net.minecraftforge:forge:${mc_version}-36.0.46'
+    minecraft 'net.minecraftforge:forge:1.16.5-36.0.46'
+    compile fileTree(dir: 'libs', include: '*.jar')
 
 }
 
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "${modid}",
+                "Specification-Title"     : "LiaVeres",
                 "Specification-Vendor"    : "AlgorithmLX",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
@@ -100,3 +100,8 @@ jar {
 }
 
 jar.finalizedBy('reobfJar')
+
+apply plugin: "java"
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
