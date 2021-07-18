@@ -41,6 +41,7 @@ public class ModBlocks {
     }
 
     private static void registerItem(RegistryEvent.Register<Item> event, Block block) {
-        event.getRegistry().register(new BlockItem(block, new Item.Properties().group(ItemGroup.MISC)).setRegistryName(Objects.requireNonNull(block.getRegistryName())));
+        event.getRegistry().register(new BlockItem(block, new Item.Properties()
+                .group(ItemGroup.MISC)).setRegistryName(Objects.requireNonNull(block.getRegistryName())));
     }
 }

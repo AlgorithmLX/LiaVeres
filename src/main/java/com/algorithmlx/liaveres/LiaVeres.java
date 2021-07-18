@@ -13,8 +13,8 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 //Hollow, help pls
-//import software.bernie.example.registry.BlockRegistry;
-//import software.bernie.geckolib3.GeckoLib;
+import software.bernie.example.registry.BlockRegistry;
+import software.bernie.geckolib3.GeckoLib;
 
 
 @Mod("liaveres")
@@ -24,7 +24,7 @@ public class LiaVeres {
     public static final String ModId = "liaveres";
 
     public LiaVeres() {
-        //GeckoLib.initialize();
+        GeckoLib.initialize();
 
         IEventBus forgeBus = MinecraftForge.EVENT_BUS;
 

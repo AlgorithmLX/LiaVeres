@@ -5,12 +5,11 @@ buildscript {
             name "Forge"
             url "https://maven.minecraftforge.net/"
         }
-        //maven {
-            //url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
-        //}
+        maven {
+            url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+        }
         dependencies {
             classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '4.1.+', changing: true
-            //implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41')
         }
     }
 }
