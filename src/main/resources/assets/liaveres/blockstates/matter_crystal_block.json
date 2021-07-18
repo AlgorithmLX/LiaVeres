@@ -1,6 +1,5 @@
 {
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "liaveres:blocks/matter_crystal_block"
+  "variants": {
+    "": { "model": "liaveres:block/matter_crystal_block" }
   }
 }
