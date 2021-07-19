@@ -11,7 +11,7 @@ public class EnergyStorageBlock extends Block {
         super(Properties.create(Material.ROCK)
                 .doesNotBlockMovement()
                 .tickRandomly()
-                .hardnessAndResistance(4.0F)
+                .hardnessAndResistance(2.0F)
                 .sound(SoundType.STONE)
                 .setLightLevel((state) -> 11));
         this.setRegistryName(name);
