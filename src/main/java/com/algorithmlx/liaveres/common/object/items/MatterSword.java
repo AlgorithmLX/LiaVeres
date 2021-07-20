@@ -9,6 +9,6 @@ public class MatterSword extends SwordItem
 {
     public MatterSword()
     {
-        super(ItemTier.IRON,  12,2F, new Properties());
+        super(ItemTier.NETHETRETE,  99999999,9F, new Properties());
     }
 }
