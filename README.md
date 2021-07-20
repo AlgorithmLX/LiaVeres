@@ -14,3 +14,9 @@ Textures(Rest): AlgorithmLX.
 Models(GeckoLib, and other): AlgorithmLX
 
 Dependency(A4 and above): https://geckolib.com/
+
+
+
+
+
+JOIN TO MY ALGOTEAM DISCORD SERVER! : https://discord.gg/e2Abs6XAYW
