@@ -1,6 +1,5 @@
 # LiaVeres
-IT IS NOT ALLOWED TO PASS OFF MY MODIFICATION AS YOUR OWN, IT IS PUNISHABLE BY COPYRIGHT.
-
+Pls Read COPYRIGHT
 Mystic mod adding unusual items. 
 
 Dev: AlgorithmLX. 
