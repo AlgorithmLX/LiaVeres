@@ -1,5 +1,5 @@
 # LiaVeres
-Pls Read COPYRIGHT
+Pls Read LICENSE
 
 Mystic mod adding unusual items. 
 
