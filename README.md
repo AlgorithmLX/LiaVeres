@@ -5,20 +5,16 @@
 
 Mystic mod adding unusual items. 
 
-Dev: AlgorithmLX. 
+Dev: [AlgorithmLX](https://github.com/IgroGames2227/) 
 
-Deving Helper: HollowHorizon
+Deving Helper: [HollowHorizon](https://github.com/HollowHorizon/) 
 
 Textures(Matter, Matter Crystal, Matter Crystal block and Matter sword): DeltaRXT.
 
-Textures(Rest): AlgorithmLX.
+Textures(Rest): [AlgorithmLX](https://github.com/IgroGames2227/).
 
-Models(GeckoLib, and other): AlgorithmLX
+Models(GeckoLib, and other): [AlgorithmLX](https://github.com/IgroGames2227/) 
 
-Dependency(A4 and above): https://geckolib.com/
+Dependency(A4): [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 
-
-
-
-
-JOIN TO MY ALGOTEAM DISCORD SERVER! : https://discord.gg/e2Abs6XAYW
+[JOIN TO MY ALGOTEAM DISCORD SERVER!](https://discord.gg/e2Abs6XAYW)
