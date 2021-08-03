@@ -3,7 +3,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/IgroGames2227/LiaVeres?style=for-the-badge&label=Release)](https://github.com/IgroGames2227/LiaVeres/releases)
 [![Latest PreRelease](https://img.shields.io/github/v/release/IgroGames2227/LiaVeres?include_prereleases&style=for-the-badge&label=Pre)](https://github.com/IgroGames2227/LiaVeres/releases)
 
-This is Forge version, are you looking for Fabric? See: [LiaVeres Fabric Source Code](https://github.com/IgroGames2227/LiaVeres-Fabric
+This is Forge version, are you looking for Fabric? See: [LiaVeres Fabric Source Code](https://github.com/IgroGames2227/LiaVeres-Fabric)
 
 Mystic mod adding unusual items. 
 
